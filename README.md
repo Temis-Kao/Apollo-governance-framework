@@ -3,7 +3,7 @@ Apollo Governance Framework
 
 A Human–AI Interaction Risk Monitoring Framework
 ⸻
-# # Overview
+## Overview
 Apollo is a governance-oriented framework designed to make human–AI interaction risks observable at a conceptual level.
 The project focuses on:
  • Governance positioning
@@ -27,14 +27,14 @@ They do not constitute:
  • system specifications,
  • implementation guidance, or
  • operational commitments.
-# # Implementation details, operational parameters, and computational or calculation procedures are intentionally omitted.
+## Implementation details, operational parameters, and computational or calculation procedures are intentionally omitted.
 ⸻
 Patent Notice
 Nothing in this repository shall be construed as granting any license or rights to practice any patented invention.
 Patent applications covering related methods and systems are in preparation or pending.
 No license or rights to practice any patented invention are granted or implied by the publication of this repository.
 ⸻
-# # Intended Use
+## Intended Use
 Apollo is designed to:
  • clarify governance boundaries,
  • surface risk signals at a conceptual level, and
@@ -44,11 +44,11 @@ It is not designed to:
  • automate governance decisions, or
  • substitute human responsibility.
 ⸻
-# # Status
+## Status
  • Current version: v1.0
  • Date: February 2026
  • Author: Yi-Shiuan Kao (Temis Kao)
 ⸻
-# # Closing Note
+## Closing Note
 Apollo’s value lies not in control, but in enabling humans to recognize
 when control should not be delegated.
